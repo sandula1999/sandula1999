@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Sandula Jeewantha</h1>
-<h3 align="center">A passionate Full-Stack Web developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full-Stack Web developer & Quality Engineer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
@@ -7,9 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandula1999&label=Profile%20views&color=0e75b6&style=flat" alt="sandula1999" /> </p>
 
 
-- 🌱 I’m currently learning **MERN / sass / Tailwind**
-
-- ⚡ Im Also Interested In **QA Engineering**
+- 🌱 I’m currently learning **MERN / Selenium **
 
 - 👨‍💻 All of my projects are available at [Portfolio](http://sandulajeewantha.ezyro.com/)
 
