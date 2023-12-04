@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](http://sandulajeewantha.ezyro.com/)
 
-- 👯 I’m looking for Intern or Associate Position in **Full-Stack Web Development / QA Engineering**
-
 - 📫 How to reach me **jeewanthaamarakoon@gmail.com**
 
 
