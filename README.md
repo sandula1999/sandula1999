@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandula1999&label=Profile%20views&color=0e75b6&style=flat" alt="sandula1999" /> </p>
 
 
-- 🌱 I’m currently learning **MERN / Selenium **
+- 🌱 I’m currently learning **Test Automation / Selenium **
 
 - 👨‍💻 All of my projects are available at [Portfolio](http://sandulajeewantha.ezyro.com/)
 
-- 📫 How to reach me **jeewanthaamarakoon@gmail.com**
+- 📫 Reach me **jeewanthaamarakoon@gmail.com**
 
 
 
