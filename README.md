@@ -1,19 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0FAC08&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Sandula+Jeewantha)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate Full-Stack Web developer & Quality Engineer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandula1999&label=Profile%20views&color=0e75b6&style=flat" alt="sandula1999" /> </p>
-
-
-- 🌱 I’m currently learning **Test Automation / Selenium **
-
-- 👨‍💻 All of my projects are available at [Portfolio](http://sandulajeewantha.ezyro.com/)
-
-- 📫 Reach me **jeewanthaamarakoon@gmail.com**
-
 
 
 <h3 align="left">Connect with me:</h3>
