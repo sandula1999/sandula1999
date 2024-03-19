@@ -1,4 +1,4 @@
-<h3 align="left">Connect with me:</h3>
+<div align="center"> <img src="https://github.com/sandula1999/sandula1999/blob/998e9fb2c9eeb86b08da9f5aaf17bb3e9be9602c/banner1.png"> </div>
 <p align="left">
  
 <a href="https://www.linkedin.com/in/sandula-jeewantha?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXdTNguJJS%2BK85fiW%2FjVVjQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandula-jeewantha/" height="30" width="40" /></a>
@@ -14,15 +14,16 @@
  
 # 📊 GitHub Stats:
 
-<div style="text-align: center;">
-    <div style="display: inline-block; margin-right: 10px;">
-        <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandula1999&show_icons=true&locale=en&theme=tokyonight" alt="sandula1999" /></p>
-    </div>
-    <div style="display: inline-block;">
-        <p><img src="https://github-readme-stats.vercel.app/api?username=sandula1999&show_icons=true&locale=en&theme=tokyonight" alt="sandula1999" /></p>
-    </div>
-    <div style="margin-top: 20px; text-align: center;">
-        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandula1999&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sandula1999" /></p>
-    </div>
-</div>
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandula1999&show_icons=true&locale=en&theme=tokyonight" alt="sandula1999" />
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=sandula1999&show_icons=true&locale=en&theme=tokyonight" alt="sandula1999" />
+    </td>
+  </tr>
+</table>
+<p align = "center"><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sandula1999&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sandula1999" /></p>
+
 
