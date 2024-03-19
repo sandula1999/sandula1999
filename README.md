@@ -14,8 +14,15 @@
  
 # 📊 GitHub Stats:
 
-<p align = "center"><img width ="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandula1999&show_icons=true&locale=en&theme=tokyonight" alt="sandula1999" /></p>
+<div style="text-align: center;">
+    <div style="display: inline-block; margin-right: 10px;">
+        <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandula1999&show_icons=true&locale=en&theme=tokyonight" alt="sandula1999" /></p>
+    </div>
+    <div style="display: inline-block;">
+        <p><img src="https://github-readme-stats.vercel.app/api?username=sandula1999&show_icons=true&locale=en&theme=tokyonight" alt="sandula1999" /></p>
+    </div>
+    <div style="margin-top: 20px; text-align: center;">
+        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandula1999&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sandula1999" /></p>
+    </div>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandula1999&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sandula1999" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=sandula1999&show_icons=true&locale=en&theme=tokyonight" alt="sandula1999" /></p>
