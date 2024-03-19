@@ -1,5 +1,14 @@
+<h1 align="center">Hey There! 👋</h1>
 <div align="center"> <img src="https://github.com/sandula1999/sandula1999/blob/998e9fb2c9eeb86b08da9f5aaf17bb3e9be9602c/banner1.png"> </div>
 <p align="left">
+
+- 🔭 I’m currently working on [Hiretrace](https://hiretrace.io/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
  
 <a href="https://www.linkedin.com/in/sandula-jeewantha?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXdTNguJJS%2BK85fiW%2FjVVjQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandula-jeewantha/" height="30" width="40" /></a>
 <a href="https://instagram.com/_xandu1a__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
